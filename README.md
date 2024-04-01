@@ -1,4 +1,4 @@
-# Creating a task management app
+# Creating a todo list web app
 
 I am reproducing this amazing tutorial (https://youtu.be/Z1RJmh_OqeA)
 
@@ -36,5 +36,5 @@ setting up the database
 some css to style the page.
 procfile was supposed to help with deploying with heroku, but i will try deploying with kenet instead ( i will share shortly about that)
 
-check out the app the ![app ui](static\assets\app-ui.png)
+check out the app the ![app ui](https://github.com/Antony-gitau/task-manager/blob/main/static/assets/app-ui.png))
 
