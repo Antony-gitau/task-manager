@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+.content{
+    margin: 0 auto;
+    width: 500px;
+    padding: 40px;
+    background-color: white;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, td, th {
+    border: 3px solid #aaa;
+}
+
+th {
+    height: 30px;
+    background-color: #f2f2f2;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+}
+
+.form {
+    margin-top: 50px;
+}
+
+#content {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 20px;
+}
+#submit_button {
+    font-size: 19px;
+    font-family: sans-serif;
+}
+
+#title {
+    font-size: 30px;
+    margin-bottom: 20px;
+    align-content: center;
+    color:blue;
+    text-align: center;
+}
+
